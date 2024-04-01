@@ -1,11 +1,10 @@
-# conda env create --file environment.yml
 name: prueba1
 channels:
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
-  - pip
-  - python=3.11
-  - pip:
-    
+  - python
+  - ipykernel
+  - scikit-learn
+  - pandas
+
