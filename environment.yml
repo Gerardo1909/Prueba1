@@ -1,4 +1,6 @@
-name: prueba1
+#Para recrear el entorno virtual: conda env create --file environment.yml
+
+name: manejo_rutas_archivos
 channels:
   - conda-forge
   - defaults
