@@ -1,6 +1,7 @@
-# Manejo de rutas y archivos 
-Hecho por: Gerardo1909
-Correo : gerardotoboso1909@gmail.com
+# Manejo de rutas y archivos
+
+* **Hecho por**: Gerardo1909
+* **Correo** : gerardotoboso1909@gmail.com
 
 # Descripción:
 
